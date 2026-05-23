@@ -101,7 +101,7 @@ Email Me 👉 ✉️ **alexanis120@gmail.com** For Collaboration/Project or Anyt
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisRah121&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisCodex&theme=radical" />
 </p>
 
 ---
@@ -109,8 +109,8 @@ Email Me 👉 ✉️ **alexanis120@gmail.com** For Collaboration/Project or Anyt
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnisRah121&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnisRah121&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnisCodex&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnisCodex&theme=github_dark"/>
 </p>
 
 ---
